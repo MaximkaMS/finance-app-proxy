@@ -1,0 +1,6 @@
+{
+  "name": "finance-app-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Groq API proxy for Finance App"
+}
